@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recycler Dashboard | Recycore</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+      color: white;
+      padding: 40px;
+    }
+
+    .dashboard {
+      max-width: 700px;
+      margin: auto;
+      background-color: #1c1c1c;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.4);
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 30px;
+      color: #00d2ff;
+    }
+
+    .menu {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .menu a {
+      text-decoration: none;
+      padding: 15px;
+      background: #34495e;
+      color: white;
+      text-align: center;
+      font-size: 18px;
+      border-radius: 8px;
+      transition: 0.3s ease;
+    }
+
+    .menu a:hover {
+      background: #00b09b;
+    }
+
+    .logout {
+      background-color: crimson;
+    }
+
+    .logout:hover {
+      background-color: #e74c3c;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="dashboard">
+    <h2>Welcome Recycler 👷‍♂️</h2>
+    <div class="menu">
+      
+      <a href="update-status.jsp">📝 Approve / Disapprove Requests</a>
+      <a href="recycler-profile.jsp">👤 View Profile</a>
+      <a href="recycler-login.html" class="logout">🚪 Logout</a>
+    </div>
+  </div>
+
+</body>
+</html>

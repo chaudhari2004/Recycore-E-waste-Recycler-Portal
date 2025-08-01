@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/add-recycler.html=UTF-8
+encoding//WebContent/admin-login.html=UTF-8
+encoding//WebContent/user-entry.html=UTF-8
+encoding//WebContent/user-registration.html=UTF-8
+encoding//WebContent/user-view-pickup.jsp=UTF-8
+encoding//WebContent/viewRecycler.jsp=UTF-8
+encoding//src/ewasteRecycler/SubmitPickupRequest.java=UTF-8
+encoding//src/ewasteRecycler/addRecycler.java=UTF-8
+encoding//src/ewasteRecycler/adminLogin.java=UTF-8
+encoding//src/ewasteRecycler/registerUser.java=UTF-8
