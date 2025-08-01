@@ -35,6 +35,9 @@
 - 🗂️ File Upload Support for E-waste Images
 
 ---
+🔗 **Live Demo on LinkedIn:**  
+[Watch Project Demo on LinkedIn](https://www.linkedin.com/posts/vivek-chaudhari-a033b6259_recycore-javaprojects-project-activity-7353075083210313729-LvxV)
+
 
 
 
@@ -49,9 +52,5 @@
 5️⃣ Start the server and explore 🚀
 
 
-## 🚀 Live Demo
 
-🎥 [Watch Live on LinkedIn](https://www.linkedin.com/posts/vivek-chaudhari-a033b6259_recycore-javaprojects-project-activity-7353075083210313729-LvxV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-Y3SMB-_DThjxKAbKDrMi9hNkT-Thr8bk)
-
----
 
