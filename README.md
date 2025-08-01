@@ -7,6 +7,12 @@
 > 🚮 A centralized platform that connects users and recyclers for efficient and eco-friendly disposal of electronic waste.
 
 ---
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
+![Servlet](https://img.shields.io/badge/Servlet-2C2255?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
+
 
 ### 📌 Overview
 
