@@ -35,7 +35,7 @@
 
 - 🌐 HTML, CSS, JavaScript (Frontend)
 - ☕ Java (Core), Servlets, JSP
-- 🐬 MySQL (Database)
+- 🐬 MySQL (Database),XAMPP
 - 🧩 JDBC for DB connectivity
 - 🖥️ Apache Tomcat Server
 - 🗂️ File Upload Support for E-waste Images
